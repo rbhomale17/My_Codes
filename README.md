@@ -1,3 +1,3 @@
 # My_Codes 
 
-this file only my practice
+this file only for my practice of codes
